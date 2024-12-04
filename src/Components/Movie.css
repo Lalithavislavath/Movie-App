@@ -1,0 +1,38 @@
+li{
+    list-style: none;
+    margin-top: 20px;
+    border: 1px solid rgb(200, 193, 193);
+    border-radius: 8px;
+    width: 500px;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+}
+.app{
+    text-align: center;
+}
+
+.img{
+    width: 300px;
+}
+input{
+    width: 400px;
+    border: 1px solid rgb(224, 223, 221);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    color: red;
+    font-size: 35px;
+}
+.nav{
+    text-align: center;
+    padding: 20px;
+    text-decoration:none;
+    
+}
+.row{
+    width: 50%;
+    height: 100px;
+}
